@@ -1,0 +1,97 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {253, 402}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{0, 0}, {253, 402}}",
+        "class" : "View",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "uuid" : "1E88152D-057D-4156-A7A9-40CB85453000",
+          "frame" : "{{77, 151}, {100, 100}}",
+          "background_color" : "RGBA(0.740566,0.000000,0.000000,1.000000)",
+          "class" : "View",
+          "name" : "backgroundView",
+          "flex" : "WH"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{76, 348}, {102, 39}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "uuid" : "C874D8E1-043C-40CF-93B1-BEC1F320CA25",
+          "font_size" : 20,
+          "corner_radius" : 0,
+          "background_color" : "RGBA(0.073113,0.073113,0.073113,1.000000)",
+          "frame" : "{{87, 185}, {80, 32}}",
+          "tint_color" : "RGBA(0.801887,0.000000,0.000000,1.000000)",
+          "border_width" : 1,
+          "border_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Search",
+          "action" : "search",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "search_button",
+          "flex" : "WT"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{25, 70}, {206, 262}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "uuid" : "0C78839B-3DF3-4E67-8ED5-55628EFFB5F5",
+          "font_size" : 20,
+          "corner_radius" : 0,
+          "background_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{27, 101}, {200, 200}}",
+          "border_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "editable" : true,
+          "border_width" : 1,
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "text_color" : "RGBA(0.747642,0.000000,0.000000,1.000000)",
+          "font_name" : "Chalkduster",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "textview",
+          "flex" : "WH"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{25, 6}, {196, 50}}",
+        "class" : "ImageView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "uuid" : "BC8BB790-D5C5-4EE3-9140-18E6DA819853",
+          "frame" : "{{77, 151}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "imageview",
+          "flex" : "LR"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
